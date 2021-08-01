@@ -10,3 +10,5 @@ The board is made up of an m x n grid of cells, where each cell has an initial s
 - Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
 
 A GUI using Pygame has been created to visually illustrate how this process is actually working through several generations.
+
+<img src="gameOfLifeGIF.gif" width="700" height="552"/>
