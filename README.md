@@ -9,4 +9,4 @@ The board is made up of an m x n grid of cells, where each cell has an initial s
 - Any live cell with more than three live neighbors dies, as if by over-population.
 - Any dead cell with exactly three live neighbors becomes a live cell, as if by reproduction.
 
-An application using pyGame has been created to visually illustrate how this process is actually working through several generations.
+A GUI using Pygame has been created to visually illustrate how this process is actually working through several generations.
