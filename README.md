@@ -11,4 +11,6 @@ The board is made up of an m x n grid of cells, where each cell has an initial s
 
 A GUI using Pygame has been created to visually illustrate how this process is actually working through several generations.
 
-<img src="gameOfLifeGIF.gif" width="600" height="380"/>
+<p align="center">
+    <img src="gameOfLifeGIF.gif" width="600" height="380"/>
+<p>
